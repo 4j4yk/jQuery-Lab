@@ -5,4 +5,4 @@
   * [Exercise 1: Selecting Elements, Getting Values, and Setting Values](lab2_ex1.html)
   * [Exercise 2: Attributes, Classes and CSS Manipulation](lab2_ex2.html)
   * [Exercise 3: jQuery UI](lab2_ex3.html)
-  * [Exercise 4: Canvas Manipulation[(lab2_ex4.html)
+  * [Exercise 4: Canvas Manipulation](lab2_ex4.html)
